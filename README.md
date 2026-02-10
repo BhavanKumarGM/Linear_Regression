@@ -26,8 +26,11 @@ The goal is to:
 Linear_Regression/
 │
 ├── data.csv
+
 ├── model.py
+
 ├── requirements.txt
+
 └── README.md
 
 
