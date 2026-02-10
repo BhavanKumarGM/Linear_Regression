@@ -50,5 +50,5 @@ Linear_Regression/
 git clone https://github.com/your-username/Linear_Regression.git
 
 ### ✍️ Author
-Bhavan Kumar
+Bhavan Kumar G M
 Learning machine learning by understanding fundamentals, not copying tutorials.
