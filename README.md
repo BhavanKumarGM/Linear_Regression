@@ -23,8 +23,6 @@ The goal is to:
 
 ## 🗂 Project Structure
 
-Linear_Regression
-/
 │
 ├── data.csv
 ├── model.py
