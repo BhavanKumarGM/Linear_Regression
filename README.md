@@ -23,14 +23,12 @@ The goal is to:
 
 ## 🗂 Project Structure
 
-Linear_Regression/
+Linear_Regression
+/
 │
 ├── data.csv
-
 ├── model.py
-
 ├── requirements.txt
-
 └── README.md
 
 
