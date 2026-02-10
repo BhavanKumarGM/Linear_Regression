@@ -23,10 +23,13 @@ The goal is to:
 
 ## 🗂 Project Structure
 
-│
+
 ├── data.csv
+
 ├── model.py
+
 ├── requirements.txt
+
 └── README.md
 
 
