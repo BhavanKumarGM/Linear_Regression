@@ -46,8 +46,9 @@ Linear_Regression/
 ## ⚙️ Setup Instructions
 
 ### 1️⃣ Clone the repository
-```bash
+
 git clone https://github.com/your-username/Linear_Regression.git
-✍️ Author
+
+### ✍️ Author
 Bhavan Kumar
 Learning machine learning by understanding fundamentals, not copying tutorials.
